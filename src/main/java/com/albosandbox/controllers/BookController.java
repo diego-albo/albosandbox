@@ -16,8 +16,8 @@ import com.albosandbox.models.Book;
 import com.albosandbox.services.BookService;
 
 @RestController
-@RequestMapping(path = "/cacao/")
-public class CacaoController
+@RequestMapping(path = "/library")
+public class BookController
 {
 	@Autowired
     private BookService bookService;
