@@ -1,7 +1,0 @@
-com/albosandbox/controllers/CacaoController.class
-com/albosandbox/services/BookService.class
-com/albosandbox/ServletInitializer.class
-com/albosandbox/models/Book.class
-com/albosandbox/AlbosandboxApplication.class
-com/albosandbox/services/BookServiceImpl.class
-com/albosandbox/repositories/BookRepository.class
